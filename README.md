@@ -17,7 +17,7 @@ Data modelling/curation for the PumpScience project with FlipsideCrypto Solana S
         - graduation_events
           - ez_meteora_swaps
           - meteora_fees
-          
-![tasks execution flow](https://github.com/0xthelaughingman/Snowflake-Curations---PumpScience/blob/main/images/tasks%20graph.png)
+
+![tasks execution flow](https://github.com/0xthelaughingman/Snowflake-Curations---PumpScience/blob/main/images/tasks_graph.png)
 
 
